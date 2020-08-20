@@ -1,7 +1,7 @@
 # plotting_tool
-I've did this project in 2017 to plot graphs 
+I did this project in 2017 to plot graphs 
 
-This is final versionof the program. To plot new functions you need to modify program 😅 and compile it. I was young so do not expect much from this project.
+This is the final version of the program. To plot new functions you need to modify the program and compile it. I was young so do not expect much from this project.
 
 Here are some examples:
 First example displays graphs:
